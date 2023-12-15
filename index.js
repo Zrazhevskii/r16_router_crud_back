@@ -3,9 +3,8 @@ const router = require('./routes')
 const Koa = require('koa');
 const KoaBody = require('koa-body').default;
 const cors = require('koa2-cors');
-const router = require('./routes');
 const app = new Koa();
-const PORT = 7070;
+const PORT = 3000;
 
 app.use(
     KoaBody({
@@ -25,7 +24,7 @@ app.use(
     })
 );
 
-app.use(router().routers()).use(router.allowedMethods());
+app.use(router.routes()).use(router.allowedMethods());
 
 app.listen(PORT, (err) => {
     if (err) {

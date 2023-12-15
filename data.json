@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Linaz Gilayzov",
+        "image": "https://i.pinimg.com/originals/7f/bf/55/7fbf558642a237941653e4ce18708b6e.jpg",
+        "content": "Всем привет, я сегодня первый раз прокатился на лыжах",
+        "created": ""
+    },
+    {
+        "id": 2,
+        "name": "Linaz Gilayzov",
+        "image": "https://i.pinimg.com/originals/7f/bf/55/7fbf558642a237941653e4ce18708b6e.jpg",
+        "content": "Привет,  у меня сегодня день рождение!!!!",
+        "created": ""
+    },
+    {
+        "id": 3,
+        "name": "Linaz Gilayzov",
+        "image": "https://i.pinimg.com/originals/7f/bf/55/7fbf558642a237941653e4ce18708b6e.jpg",
+        "content": "Хай, приглашаю всех ко мне в загородный дом)",
+        "created": ""
+    }
+]
